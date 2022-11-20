@@ -1,1 +1,19 @@
-# DACON_Jeju_Island_Traffic_Jam_Prediction
+# [DACON]Jeju-Island-Traffic-Jam-Prediction
+
+Public score 2nd 3.07714 | Private score 4th 3.0852
+
+주최 : 제주 테크노파크, 제주특별자치도
+
+주관 : DACON
+
+규모 : 총 1400여명 참가
+
+======================================================
+
+
+스태킹 앙상블 등 다양한 기법들을 시도하여 성능을 최대한으로 끌어올려보려 했지만
+Data-Leakage에 위반이 되지 않는 것이 더 중요하다 생각이 들어 마지막 시간은 코드 점검에만 시간을 쏟았습니다.
+
+다양한 모델링 기법을 제대로 해보지 않았기 때문에 성능 향상 가능성이 높은 코드라 생각합니다.
+
+Data-Leakage에 위험하다 생각되는 코드들은 마지막에 모두 삭제하였으며 최종 제출 점수도 가장 높은 PB Score가 아닌 위험하다 생각한 피처들을 모두 삭제하고 학습, 예측한 안전한 PB Score로 제출 하여 Public Score 2등에서 Private Score 4등으로 마무리하였습니다.
