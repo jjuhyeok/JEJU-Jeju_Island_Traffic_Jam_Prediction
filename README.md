@@ -68,7 +68,8 @@ Data-Leakage에 위험하다 생각되는 코드들은 마지막에 모두 삭�
   * XGBoostRegressor 모델 사용
   * Optuna를 활용하여 하이퍼파라미터 튜닝
   * 교차 검증 활용(stratified k-fold cross validation)
-  
+  * target 값은 정수형으로 이루어져있다는 사실에 기반하여 예측값을 round 
+
 **추가 시도 사항** (최종 결과 도출에는 비사용)
   * IQR * 1.5 2.0 등등 값을 변화해가며 폭주 or 사고라고 생각하는 이상치들을 drop -> 정확도가 오히려 낮아짐
   * 3 sigma 법칙을 이용해 폭주 or 사고라고 생각하는 이상치들을 drop -> 정확도가 오히려 낮아짐
