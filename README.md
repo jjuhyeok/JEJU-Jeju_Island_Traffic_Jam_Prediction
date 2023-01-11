@@ -2,6 +2,8 @@
 
 Public score 2nd 3.07714 | Private score 4th 3.0852
 
+# 최종 3등(수상)
+
 주최 : 제주 테크노파크, 제주특별자치도
 
 주관 : DACON
