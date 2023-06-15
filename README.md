@@ -1,6 +1,7 @@
 # [DACON] 제주도 도로 교통량 예측 AI 경진대회 [(Link)](https://dacon.io/competitions/official/235985/leaderboard)
 
-Public score 2nd 3.07714 | Private score 4th 3.0852
+## 😃 Result
+- **Public score** 2nd 3.07714 | **Private score** 4th 3.0852 | **최종 2등**
 
 
 # 최종 3등(수상)
