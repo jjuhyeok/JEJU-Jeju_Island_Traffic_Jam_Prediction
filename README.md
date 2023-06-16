@@ -17,7 +17,7 @@
 
 <div align=center>
   
-  ![단락 텍스트](./img/img2.png)
+  ![단락 텍스트](./img/img.png)
 </div>
 
 
