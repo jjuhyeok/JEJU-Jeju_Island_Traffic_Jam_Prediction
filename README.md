@@ -16,12 +16,7 @@
 
 
 
-
-<div align=center>
-  
-  ![단락 텍스트](./img/img.png)
-</div>
-
+<img width="80%" src="https://github.com/jjuhyeok/JEJU-Jeju_Island_Traffic_Jam_Prediction/assets/49608953/280daa88-d754-44ed-85ae-186629dc3c20"/>
 
 **같이 참여했던 팀원분의 개발 블로그를 보던 중 발견한 감동적인 글..**
 
